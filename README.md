@@ -57,29 +57,6 @@ When I'm not immersed in code, you'll find me:
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&theme=radical)](https://angular.dev/)
 [![Spring-Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&theme=radical)](https://spring.io)
 
-## 🖤 Tools I Love 🖤
-
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&theme=radical)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&theme=radical)
-![7-Zip](https://img.shields.io/badge/7--Zip-000000?style=for-the-badge&logo=7zip&logoColor=white&theme=radical)
-
-## ⚡ Database ⚡
-
-[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
-[![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=whit)]()
-[![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)]()
-
-## 🎮 Consoles  🎮
-
-![Playstation_1](https://img.shields.io/badge/Playstation_1-003791?style=for-the-badge&logo=playstation&logoColor=white&theme=radical)
-![Playstation_2](https://img.shields.io/badge/Playstation_2-003791?style=for-the-badge&logo=playstation2&logoColor=white&theme=radical)
-![Playstation_3](https://img.shields.io/badge/Playstation_3-003791?style=for-the-badge&logo=playstation3&logoColor=white&theme=radical)
-![Playstation_4](https://img.shields.io/badge/Playstation_4-003791?style=for-the-badge&logo=playstation4&logoColor=white&theme=radical)
-![Playstation_5](https://img.shields.io/badge/Playstation_5-003791?style=for-the-badge&logo=playstation5&logoColor=white&theme=radical)
-![Nintendo_Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white&theme=radical)
-
-
 ---
 
 ---
