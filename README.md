@@ -56,6 +56,7 @@ When I'm not immersed in code, you'll find me:
 [![OpenJDK](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white&theme=radical)](https://openjdk.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&theme=radical)](https://angular.dev/)
 [![Spring-Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&theme=radical)](https://spring.io)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
 ---
 
